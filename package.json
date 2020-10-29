@@ -1,0 +1,29 @@
+{
+  "name": "Rauf-Mirzeyev",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "name": "echo 'Benim adim Rauf",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Rauf-Mirzeyev",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.10.11",
+    "nodemailer": "^6.4.14",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.1.0"
+  },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/Rauf9/Rauf-Mirzeyev.git"
+  }
+}
